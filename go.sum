@@ -1,0 +1,8 @@
+github.com/nmiyake/test-repo-b v1.0.0 h1:6G8GwdM3gbO09Hg8bgB8I10iRAd37T1QtujbdG3TNec=
+github.com/nmiyake/test-repo-b v1.0.0/go.mod h1:9XpmUT5poWm0+ann6J66IjtkjuzQkXDGd96m4JOZmYU=
+github.com/nmiyake/test-repo-b v1.1.0 h1:U186qXv7wIvrFqvDK5yCjObpNQjspkx4htOFXt0yvNM=
+github.com/nmiyake/test-repo-b v1.1.0/go.mod h1:SnLZyxxmoQkAE6rb9Fa0phPfb2Qwh5mB71aqed8h4NI=
+github.com/nmiyake/test-repo-c v0.0.0-20191127215535-3c89b55e2851 h1:acakxjbisTJYG65AOoHyW0POptW4bgdXEdNfoP62nGY=
+github.com/nmiyake/test-repo-c v0.0.0-20191127215535-3c89b55e2851/go.mod h1:6gnkVCcf0CfHxBOrOlAMJ4RsebJkMII3aM9i+DzJEg0=
+github.com/nmiyake/test-repo-c/smile v1.0.0 h1:T4/Zq98py7sm4Fbn0xDcj0H30nad39Jx/RE9aRD+9t0=
+github.com/nmiyake/test-repo-c/smile v1.0.0/go.mod h1:4vFSrNl5P+JorIB2YQwoYEuhHwf3I+T+LlSPub47W+4=
